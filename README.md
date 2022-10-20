@@ -44,6 +44,15 @@
 - Click **Deploy**
 - Now whenever you push a change to your repository, Vercel will automatically redeploy your website!
 
+## Submission
+
+After completing the project please follow the below steps for the submission
+
+- Delete .git file using this command `rm -rf .git `.
+- Init the repo using the follow command `git init`.
+- Push the repo to github and submit the link through any communication line.
+- Deploy the website and submit the link through any communication line.
+
 ## Useful resources
 
 Here are some resources that we commonly refer to:
